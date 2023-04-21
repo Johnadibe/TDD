@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [] <a name="about-project"></a>
+# 📖 [TEST DRIVEN DEVELOPMENT] <a name="about-project"></a>
 
-**[OOP-School-Library]** is an implementation of school library system, using Ruby Object Oriented Programming principles
+**[TEST-DRIVEN-DEVELOPMENT]** is an implementation of school library system, using Ruby Object Oriented Programming principles
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,8 +36,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Library record keeping]**
-- **[Minimalistic UI to access the system]**
+- **[Writing Test before Methods]**
+- **[Test Driven Development]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Johnadibe/oop.git
+  git clone https://github.com/Johnadibe/TDD.git
 ```
 
 ### Install
@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd add-person-student-teacher-class
+  cd test-driven-dev
   bundle install
 ```
 
@@ -80,7 +80,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  ruby person.rb
+  ruby solver.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
